@@ -1,0 +1,14 @@
+{
+  "name": "trimmin-gooood",
+  "version": "2.0.0",
+  "description": "トリミンGooood!! - ブラウザ完結型画像トリミングツール",
+  "scripts": {
+    "dev": "cd client && npm run dev",
+    "build": "cd client && npm run build",
+    "preview": "cd client && npm run preview",
+    "install:client": "cd client && npm install"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
