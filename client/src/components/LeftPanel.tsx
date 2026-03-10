@@ -217,7 +217,7 @@ export function LeftPanel() {
         <label className="setting-row">
           <span>{thumbnailSize}px</span>
           {/* 表示サイズスライダー */}
-          <input type="range" min="120" max="3000" value={thumbnailSize}
+          <input type="range" min="120" max="1600" value={thumbnailSize}
             onChange={(e) => setThumbnailSize(parseInt(e.target.value))} />
         </label>
       </section>
